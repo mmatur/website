@@ -26,7 +26,7 @@ The `v1.0` release is a stability release with a few focus areas:
 * `kubectl cert-manager status` command to help with investigating issues
 * Using new and stable Kubernetes APIs
 * Improved logging
-* AMCE improvements
+* ACME improvements
 
 
 As usual, please read the [upgrade notes](/docs/installation/upgrading/upgrading-0.16-1.0/) before upgrading.
